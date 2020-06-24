@@ -1,2 +1,8 @@
-# COMP9313-codes
-Code written as part of Big Data Management course at UNSW
+## Assignment-1
+MapReduce
+
+## Assignment-2
+Spark
+
+## Assignment-3
+CoreNLP Named Entity Recognition API + ElasticSearch
